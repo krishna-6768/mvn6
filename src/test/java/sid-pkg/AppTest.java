@@ -1,4 +1,4 @@
-package sid-pkg;
+package sid-pkg
 
 import static org.junit.Assert.assertTrue;
 
