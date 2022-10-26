@@ -1,4 +1,4 @@
-package sid-pkg;
+package sid-pkg
 
 /**
  * Hello world!
